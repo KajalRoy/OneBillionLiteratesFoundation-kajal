@@ -1,0 +1,7 @@
+marigold;--;Flowers1.jpg
+rose;Give scent;Flowers2.jpg
+rose;Give scent;Flowers2.jpg
+rose;Give scent;Flowers2.jpg
+rose;Give scent;Flowers2.jpg
+rose;Give scent;Flowers2.jpg
+rose;Give scent;Flowers2.jpg

@@ -1,0 +1,10 @@
+NarendraModi;He is prime minister of india;indianpersonalities1.jpg
+APJAbdulKalamAzad;People's President;indianpersonalities2.jpg
+SachinTendulkar;Master Blaster;indianpersonalities3.jpg
+SaniaMirza;recently rank 1 in wta doubles;indianpersonalities4.jpg
+ShahrukhKhan;king of bollywood;indianpersonalities5.jpg
+ArvindKejriwal;Delhi CM currently;indianpersonalities6.jpg
+CVRaman;first physics nobel laurete;indianpersonalities7.jpg
+SwamiVivekanand;known for his ideals and knowledge. Ramkrishnan mission;indianpersonalities8.jpg
+KalpanaChawla;first indian woman astronaut;indianpersonalities9.jpg
+RabindranathTagore;Gurudev;indianpersonalities10.jpg
